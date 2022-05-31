@@ -1,12 +1,13 @@
 {
   "resources": [
-    {"id":{"name":"jump","path":"sprites/jump/jump.yy",},"order":2,},
     {"id":{"name":"oCapeMan","path":"objects/oCapeMan/oCapeMan.yy",},"order":0,},
-    {"id":{"name":"stone_wall","path":"objects/stone_wall/stone_wall.yy",},"order":0,},
-    {"id":{"name":"crouch","path":"sprites/crouch/crouch.yy",},"order":3,},
-    {"id":{"name":"idle","path":"sprites/idle/idle.yy",},"order":0,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
+    {"id":{"name":"c_crouch","path":"sprites/c_crouch/c_crouch.yy",},"order":2,},
+    {"id":{"name":"c_jump_fall","path":"sprites/c_jump_fall/c_jump_fall.yy",},"order":4,},
+    {"id":{"name":"c_jump_up","path":"sprites/c_jump_up/c_jump_up.yy",},"order":3,},
+    {"id":{"name":"c_idle","path":"sprites/c_idle/c_idle.yy",},"order":0,},
     {"id":{"name":"wall","path":"sprites/wall/wall.yy",},"order":0,},
-    {"id":{"name":"walk","path":"sprites/walk/walk.yy",},"order":1,},
+    {"id":{"name":"c_walk","path":"sprites/c_walk/c_walk.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

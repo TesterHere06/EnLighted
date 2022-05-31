@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "c_idle",
-    "path": "sprites/c_idle/c_idle.yy",
+    "name": "wall",
+    "path": "sprites/wall/wall.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,24 +20,16 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":25.0,"y":0.0,},
-    {"x":25.0,"y":38.0,},
-    {"x":0.0,"y":38.0,},
-  ],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "physicsShapePoints": [],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "BG",
+    "path": "folders/Objects/Maps/BG.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oCapeMan",
+  "name": "oWall",
   "tags": [],
   "resourceType": "GMObject",
 }
