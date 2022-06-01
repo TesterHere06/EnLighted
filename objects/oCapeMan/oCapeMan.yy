@@ -1,12 +1,15 @@
 {
   "spriteId": {
-    "name": "c_idle",
-    "path": "sprites/c_idle/c_idle.yy",
+    "name": "c_main",
+    "path": "sprites/c_main/c_main.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "c_main",
+    "path": "sprites/c_main/c_main.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,

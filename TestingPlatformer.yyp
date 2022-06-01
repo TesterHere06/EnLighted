@@ -7,6 +7,7 @@
     {"id":{"name":"c_jump_up","path":"sprites/c_jump_up/c_jump_up.yy",},"order":3,},
     {"id":{"name":"c_idle","path":"sprites/c_idle/c_idle.yy",},"order":0,},
     {"id":{"name":"wall","path":"sprites/wall/wall.yy",},"order":0,},
+    {"id":{"name":"c_main","path":"sprites/c_main/c_main.yy",},"order":5,},
     {"id":{"name":"c_walk","path":"sprites/c_walk/c_walk.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],

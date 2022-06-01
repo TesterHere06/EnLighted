@@ -46,13 +46,22 @@ if (place_meeting(x, y+vsp, oWall))
 y = y + vsp;
 
 //Animation
-if (!place_meeting(x, y+1, oWall))
+if (!place_meeting(x, y+1, oWall)) //Jumping and landing
 {
-	image_speed = 1;
+	image_speed = 2;
 	if (sign(vsp) > 0) sprite_index = c_jump_fall; else sprite_index = c_jump_up;
 }
-
-if (place_meeting(x, y+1, oWall))
+else
 {
-	sprite_index = c_idle;
+	if (hsp == 0) //Idle state
+	{
+		image_speed = 1;
+		sprite_index = c_idle;
+	}
+	else
+	{
+		sprite_index = c_walk;	
+	}
 }
+
+if (hsp < 0) image_xscale = -3.2; if (hsp > 0) image_xscale = 3.2;
