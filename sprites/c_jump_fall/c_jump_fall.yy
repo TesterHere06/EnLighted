@@ -56,7 +56,7 @@
     "spriteId": {"name":"c_jump_fall","path":"sprites/c_jump_fall/c_jump_fall.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 10.0,
+    "playbackSpeed": 15.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

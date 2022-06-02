@@ -15,11 +15,6 @@ if (place_meeting(x, y+1, oWall)) && (key_jump)
 	vsp = -7;
 }
 
-if (place_meeting(x, y+1, oWall)) && (key_jump)
-{
-vsp = -7;
-}
-
 //Horizontal Collision
 if (place_meeting(x+hsp, y, oWall))
 {
