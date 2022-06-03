@@ -12,6 +12,7 @@
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":3,},
     {"id":{"name":"c_jump_fall","path":"sprites/c_jump_fall/c_jump_fall.yy",},"order":4,},
     {"id":{"name":"oGun","path":"objects/oGun/oGun.yy",},"order":2,},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":5,},
     {"id":{"name":"c_jump_up","path":"sprites/c_jump_up/c_jump_up.yy",},"order":3,},
     {"id":{"name":"slime_jump_fall","path":"sprites/slime_jump_fall/slime_jump_fall.yy",},"order":4,},
     {"id":{"name":"c_idle","path":"sprites/c_idle/c_idle.yy",},"order":0,},
