@@ -1,9 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"ForeGround","path":"tilesets/ForeGround/ForeGround.yy",},"order":0,},
-    {"id":{"name":"BG1","path":"tilesets/BG1/BG1.yy",},"order":1,},
     {"id":{"name":"oCapeMan","path":"objects/oCapeMan/oCapeMan.yy",},"order":0,},
-    {"id":{"name":"mainlev_build_my_ver","path":"sprites/mainlev_build_my_ver/mainlev_build_my_ver.yy",},"order":8,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
     {"id":{"name":"c_crouch","path":"sprites/c_crouch/c_crouch.yy",},"order":2,},
     {"id":{"name":"slime_walk","path":"sprites/slime_walk/slime_walk.yy",},"order":0,},
@@ -13,9 +10,8 @@
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},"order":0,},
     {"id":{"name":"slime_hit","path":"sprites/slime_hit/slime_hit.yy",},"order":2,},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":3,},
-    {"id":{"name":"background1","path":"sprites/background1/background1.yy",},"order":15,},
     {"id":{"name":"c_jump_fall","path":"sprites/c_jump_fall/c_jump_fall.yy",},"order":4,},
-    {"id":{"name":"props1","path":"sprites/props1/props1.yy",},"order":13,},
+    {"id":{"name":"Gray_Caves","path":"tilesets/Gray_Caves/Gray_Caves.yy",},"order":0,},
     {"id":{"name":"oGun","path":"objects/oGun/oGun.yy",},"order":2,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":5,},
     {"id":{"name":"c_jump_up","path":"sprites/c_jump_up/c_jump_up.yy",},"order":3,},
@@ -25,13 +21,9 @@
     {"id":{"name":"slime_die","path":"sprites/slime_die/slime_die.yy",},"order":1,},
     {"id":{"name":"oSlime","path":"objects/oSlime/oSlime.yy",},"order":0,},
     {"id":{"name":"c_main","path":"sprites/c_main/c_main.yy",},"order":5,},
-    {"id":{"name":"props2","path":"sprites/props2/props2.yy",},"order":14,},
-    {"id":{"name":"background3","path":"sprites/background3/background3.yy",},"order":10,},
-    {"id":{"name":"background2","path":"sprites/background2/background2.yy",},"order":9,},
-    {"id":{"name":"background4a","path":"sprites/background4a/background4a.yy",},"order":11,},
     {"id":{"name":"c_walk","path":"sprites/c_walk/c_walk.yy",},"order":1,},
     {"id":{"name":"banana_bullet","path":"sprites/banana_bullet/banana_bullet.yy",},"order":0,},
-    {"id":{"name":"background4b","path":"sprites/background4b/background4b.yy",},"order":12,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"oDeadSlime","path":"objects/oDeadSlime/oDeadSlime.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -50,6 +42,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -86,7 +79,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.5.0.8",
+    "IDEVersion": "2022.5.1.16",
   },
   "resourceVersion": "1.5",
   "name": "TestingPlatformer",
